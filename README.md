@@ -1,4 +1,8 @@
-# 🌐 Vara Naming Service (VNS)
+<div align="center">
+  <img width="200" height="200" alt="vara-logo"  src="https://github.com/user-attachments/assets/7a046c32-3454-4158-b562-9112bbb5e096"  />
+</div>
+
+# Vara Naming Service (VNS)
 
 > Human-readable identity infrastructure for the Vara Network  
 > Decentralized • Secure • Asynchronous • WebAssembly-native  
