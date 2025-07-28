@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Vara Naming Service (VNS)
 
-## Getting Started
+> Human-readable identity infrastructure for the Vara Network  
+> Decentralized • Secure • Asynchronous • WebAssembly-native  
 
-First, run the development server:
+![GitHub stars](https://img.shields.io/github/stars/rythmern02/vara-naming-service?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rythmern02/vara-naming-service?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/rythmern02/vara-naming-service)
+![GitHub issues](https://img.shields.io/github/issues/rythmern02/vara-naming-service)
+![License](https://img.shields.io/github/license/rythmern02/vara-naming-service)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔍 What is VNS?
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Vara Naming Service (VNS)** is a decentralized identity layer for the Vara Network, offering secure, human-readable domain names like `alice.vara` and `dapp-hub.vara`.  
+Built on the **Gear Protocol** and powered by **asynchronous smart contracts**, VNS replaces cryptographic addresses with intuitive, meaningful names — unlocking identity, reputation, and ownership for dApps, users, and DAOs.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ✨ Key Features
 
-To learn more about Next.js, take a look at the following resources:
+- 🏷️ **Human-readable domain names** (e.g., `yourname.vara`)
+- 🔐 **Secure & auditable smart contracts** with multi-signature support
+- 🧩 **Pluggable Resolvers** for DeFi, gaming, professional profiles, and more
+- 🌉 **Multi-network address resolution**
+- 🖥️ **Content Hosting** via IPFS & Arweave
+- 🗳️ **Governance via VNS$ token**
+- ⚙️ **Asynchronous operations & low fees** thanks to Vara's WebAssembly VM
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📖 Documentation
 
-## Deploy on Vercel
+Explore our developer documentation, integration guides, and API references in the [`/docs`](./docs) directory.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🤝 Contributing
+
+We welcome contributions from developers, designers, and researchers.
+
+1. Fork this repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -am 'Add new feature'`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+For larger contributions or architectural changes, please open an issue first to discuss.
+
+---
+
+## 🛡 License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+---
